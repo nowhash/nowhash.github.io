@@ -1,83 +1,83 @@
-<?xml-stylesheet type="text/xsl" href="https://nowhash.bitbucket.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nowhash.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nowhash.bitbucket.io/categories/</loc>
+    <loc>https://nowhash.github.io/categories/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/</loc>
+    <loc>https://nowhash.github.io/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/post/</loc>
+    <loc>https://nowhash.github.io/post/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/tags/</loc>
+    <loc>https://nowhash.github.io/tags/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/tags/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</loc>
+    <loc>https://nowhash.github.io/tags/%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/tags/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF/</loc>
+    <loc>https://nowhash.github.io/tags/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/categories/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</loc>
+    <loc>https://nowhash.github.io/categories/%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%93-%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/post/post1/</loc>
+    <loc>https://nowhash.github.io/post/post1/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/tags/%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BF/</loc>
+    <loc>https://nowhash.github.io/tags/%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BF/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/tags/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF/</loc>
+    <loc>https://nowhash.github.io/tags/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AF/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/blog/</loc>
+    <loc>https://nowhash.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nowhash.bitbucket.io/portfolio/</loc>
+    <loc>https://nowhash.github.io/portfolio/</loc>
     <priority>0</priority>
   </url>
   
