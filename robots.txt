@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nowhash.bitbucket.io/sitemap.xml
