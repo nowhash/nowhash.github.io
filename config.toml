@@ -1,7 +1,7 @@
 baseURL="https://nowhash.github.io"
 languageCode="en"
 defaultContentLanguage="en"
-title="Nowhash's Den"
+title="Nowhash'sDen"
 preserveTaxonomyNames=true
 enableRobotsTXT=true
 enableEmoji=true
@@ -10,7 +10,7 @@ enableGitInfo=false
 
 paginate=5
 
-copyright="Abu Nowhash Chy"
+copyright="nowhash chy"
 
 [author]
 name="Abu Nowhash Chy"
@@ -43,7 +43,7 @@ debug=false
 since="2021"
 gitRepo="nowhash"
 
-logoTitle="nowhash's den"
+logoTitle="nowhash'sden"
 keywords=["Technology","Poetry","Blog","Literature","Programming","Machine Learning","ML"]
 description=""
 
@@ -76,5 +76,4 @@ showLanguageSelector=false
 d-facebook="https://www.facebook.com/nowhashchy"
 e-linkedin="https://www.linkedin.com/in/nowhashchy"
 g-github="https://github.com/nowhash"
-
 
