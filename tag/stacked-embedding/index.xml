@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stacked Embedding | nowhash&#39;s den</title>
+    <link>https://nowhash.github.io/tag/stacked-embedding/</link>
+      <atom:link href="https://nowhash.github.io/tag/stacked-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stacked Embedding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nowhash.github.io/media/sharing.jpg</url>
+      <title>Stacked Embedding</title>
+      <link>https://nowhash.github.io/tag/stacked-embedding/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Ensemble of Transformer Models for Detecting Informative Tweets</title>
+      <link>https://nowhash.github.io/publication/indicon21/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nowhash.github.io/publication/indicon21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
